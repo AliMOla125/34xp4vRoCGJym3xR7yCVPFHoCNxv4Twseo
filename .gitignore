@@ -1,0 +1,4 @@
+# Prevent accidental commits
+*
+!.gitignore
+!README.md
